@@ -7,8 +7,6 @@ This work was presented at the **6th IEEE International Conference on Intelligen
 Analyzing Psychological Factors Influencing Placebo Response Using Machine Learning
 Published in 2026 IEEE 6th International Conference on Intelligent Technologies (CONIT), IEEE
 
-# Placebo Response Prediction using Machine Learning
-
 [![IEEE Published](https://img.shields.io/badge/IEEE-Published%20%7C%202026-green)](https://doi.org/10.1109/CONIT69683.2026.11620699)
 
 **DOI:** [10.1109/CONIT69683.2026.11620699](https://doi.org/10.1109/CONIT69683.2026.11620699)
